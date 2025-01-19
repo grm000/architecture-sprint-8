@@ -122,7 +122,7 @@
         "clientId": "reports-api",
         "enabled": true,
         "clientAuthenticatorType": "client-secret",
-        "secret": "oNwoLQdvJAvRcL89SydqCWCe5ry1jMgq", 
+        "secret": "X5dezkehHNdJ2JUtKKcff331INB5t65Lbx49ncARjXZQsiX0yzAWQldnavmCQOxuc8ievBUTtGM7iPQm6lNryjlX7AbGhpVXLvOCqXwYvHor9zgKL21KkvG4R3ZvLrq2", 
         "bearerOnly": true
       }
     ]
